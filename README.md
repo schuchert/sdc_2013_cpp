@@ -15,9 +15,8 @@ Quick Start
 1. Start a browser and go to: http://localhost:8080/RpnCalculatorExamples
 1. Click on the suite button
 
-Working
+Working on Fixtures
 --------------
-If you want to work on extending this solution:
 1. You'll be working in the cslim/fixtures directory
 1. Have a look at: ProgrammingTheCalculator.cpp and DemonstrateBasicOperators.cpp
 1. Create a new fixture file in this directory following those examples
