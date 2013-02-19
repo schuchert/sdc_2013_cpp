@@ -1,0 +1,10 @@
+!|Script               |Programming The Calculator|
+|Create a program named|addMultiply               |
+|add step              |+                         |
+|add step              |*                         |
+|save program                                     |
+|enter                 |17                        |
+|enter                 |3                         |
+|enter                 |14                        |
+|execute               |addMultiply               |
+|check                 |x           |289          |

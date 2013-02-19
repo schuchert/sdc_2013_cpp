@@ -1,0 +1,5 @@
+|Modulus                 |
+|value|divisor|remainder?|
+|6    |2      |0         |
+|13   |27     |13        |
+|5    |2      |1         |
